@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638760294027344143
-    m_Hash: 1406902011
+      ticks: 638760296997096059
+    m_Hash: 3725847042
   m_LockFileStatus:
     m_FilePath: C:/Users/aktor/Documents/GitHub/BlueOceanInitiative/Blue_Ocean_Initiative/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638760294027544201
-    m_Hash: 2962674921
+      ticks: 638760296997106025
+    m_Hash: 290768180
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
